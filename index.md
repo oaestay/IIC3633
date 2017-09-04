@@ -7,3 +7,5 @@
 [Slope One Predictors for Online Rating-Based Collaborative Filtering](./3.md)
 
 [Matrix Factorization Techniques for Recommender Systems](./4.md)
+
+[Collaborative Filtering for Implicit Feedback Datasets](./5.md)
