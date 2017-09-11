@@ -9,3 +9,7 @@
 [Matrix Factorization Techniques for Recommender Systems](./4.md)
 
 [Collaborative Filtering for Implicit Feedback Datasets](./5.md)
+
+[Content-Based Recommendation Systems](./6.md)
+
+[Collaborative Filtering for Social Tagging Systems: An Experiment with CiteULike](./7.md)
