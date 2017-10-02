@@ -15,3 +15,5 @@
 [Collaborative Filtering for Social Tagging Systems: An Experiment with CiteULike](./7.md)
 
 [Context-Aware Recommender Systems](./8.md)
+
+[Factorization Machines](./9.md)
