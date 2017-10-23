@@ -17,3 +17,6 @@
 [Context-Aware Recommender Systems](./8.md)
 
 [Factorization Machines](./9.md)
+
+[Recommender systems: from algorithms to user experience
+](./10.md)
