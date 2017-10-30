@@ -38,4 +38,4 @@
 
 ## Semana 12
 
-[A survey of active learning in collaborative filtering recommender systems](./10.md)
+[A survey of active learning in collaborative filtering recommender systems](./11.md)
