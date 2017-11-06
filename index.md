@@ -39,3 +39,7 @@
 ## Semana 12
 
 [A survey of active learning in collaborative filtering recommender systems](./11.md)
+
+## Semana 13
+
+[The Link Prediction Problem for Social Networks](./12.md)
