@@ -43,3 +43,7 @@
 ## Semana 13
 
 [The Link Prediction Problem for Social Networks](./12.md)
+
+## Semana 15
+
+[Review: Bayesian Personalized Ranking from Implicit Feedback](./13.md)
