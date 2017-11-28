@@ -47,3 +47,7 @@
 ## Semana 15
 
 [Review: Bayesian Personalized Ranking from Implicit Feedback](./13.md)
+
+## Semana 16
+
+[Review: A survey of Point-of-Interest Recommendation in Location-Based Social Networks](./14.md)
